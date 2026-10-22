@@ -1,0 +1,5 @@
+Какой язык программирования является официальным для разработки Android-приложений?|Java|Kotlin|Python|Swift|1
+Какой метод жизненного цикла Activity вызывается первым при создании экрана?|onStart()|onCreate()|onResume()|onRestart()|1
+Какая папка используется для хранения статических файлов (например, текстовых) в Android?|res/values|assets|res/layout|java|1
+Какой макет (Layout) используется для создания плоского списка элементов?|ConstraintLayout|LinearLayout|RecyclerView|FrameLayout|2
+С помощью какого компонента осуществляется переход с одного экрана (Activity) на другой?|Bundle|Context|Intent|Fragment|2

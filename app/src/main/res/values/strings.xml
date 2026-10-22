@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VictorinaChyrbanova</string>
+    <string name="welcome_message">Добро пожаловать в викторину!</string>
+    <string name="btn_start_text">Начать викторину</string>
+    <string name="question_progress">Вопрос 1 из 5</string>
+    <string name="question_text">Какое ключевое слово используется для создания неизменяемой переменной?</string>
+    <string name="answer_var">var</string>
+    <string name="answer_val">val</string>
+    <string name="answer_let">let</string>
+    <string name="answer_const">const</string>
+    <string name="result_title">Результаты викторины</string>
+    <string name="result_default_score">Ваш результат: 0 из 0</string>
+    <string name="btn_restart">Пройти еще раз</string>
+    <string name="result_format">Ваш результат: %1$d из %2$d</string>
+    <string name="question_progress_format">Вопрос %1$d из %2$d</string>
+</resources>
